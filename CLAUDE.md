@@ -2,6 +2,12 @@
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
+## Documentation
+
+Before generating any code, check the `docs/` folder for relevant documentation and follow it. For example:
+
+- `docs/ui.md` — UI component and date formatting standards (apply when writing any UI code)
+
 ## Commands
 
 ```bash
