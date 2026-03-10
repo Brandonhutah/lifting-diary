@@ -6,7 +6,8 @@
       "mcp__ide__getDiagnostics",
       "mcp__supabase__list_tables",
       "mcp__supabase__execute_sql",
-      "Bash(npx shadcn@latest:*)"
+      "Bash(npx shadcn@latest:*)",
+      "Bash(npm run:*)"
     ]
   },
   "enableAllProjectMcpServers": true,
